@@ -25,7 +25,7 @@
 - 🔑 **Full Data Ownership**: You host the software, you own your data. No more vendor lock-in.
 - 💰 **Significant Cost Savings**: Slash your email marketing expenses compared to services like Mailchimp or Campaign Monitor.
 - 📈 **Unlimited Growth**: No caps on subscribers, lists, or emails. Your growth is truly limitless.
-- 信頼 **Build Trust**: Send from your own domain to improve brand recognition and deliverability.
+- 🚀 **Build Trust**: Send from your own domain to improve brand recognition and deliverability.
 - 🔌 **Seamless Integration**: A powerful RESTful API allows you to connect with any of your existing systems.
 - ☁️ **Flexible Hosting**: Choose between self-hosting on your own infrastructure or our managed cloud service.
 
