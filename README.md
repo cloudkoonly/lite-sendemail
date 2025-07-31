@@ -46,7 +46,7 @@ You can deploy **lite-sendemail** in two ways:
     # ... and so on
     ```
 
-2.  **Cloud Version**: If you prefer a hands-off approach, our [Cloud Version](https://www.cloudkoonly.com/account/signup) provides managed hosting, automatic updates, and priority support.
+2.  **Cloud Version**: If you prefer a hands-off approach, our [Cloud Version](https://www.cloudkoonly.com/product/sendportal) provides managed hosting, automatic updates, and priority support.
 
 ## 🤝 Community & Support
 
