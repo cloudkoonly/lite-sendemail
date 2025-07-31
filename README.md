@@ -2,7 +2,7 @@
 
 # lite-sendemail
 
-**Manage your own newsletters at a fraction of the cost.**
+**Open-Source, Self-Hosted Email Marketing & Domain Email Solution (Forked from SendPortal)**
 
 </div>
 
