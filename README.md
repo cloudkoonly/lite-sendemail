@@ -21,12 +21,36 @@
 
 ## ✨ Why Choose lite-sendemail?
 
-- 🔑 **Stay In Control**: Full ownership of your data and complete control over your email marketing strategy.
-- 💰 **Save Money**: Drastically reduce costs compared to commercial email marketing services.
-- 🌐 **Unlimited Everything**: No artificial limits on subscribers, emails, or features.
-- 📧 **Custom Domain Email**: Build a professional email system, sending and receiving emails as xxx@your-company.com to enhance trust with your audience.
-- 🚧 **RESTful API**: Integrate with your existing systems using our comprehensive API, enabling AI-driven agent capabilities for intelligent automation.
-- 🏗 **Self-Host Support**: Complete freedom to host on your own infrastructure or use our cloud.
+- 🔑 **Stay In Control**:
+  Full ownership of your data and complete control over your email marketing strategy.
+  
+- 💰 **Save Money**:
+  Drastically reduce costs compared to commercial email marketing services.
+  
+- 🌐 **Unlimited Everything**:
+  No artificial limits on subscribers, emails, or features.
+  
+- 📧 **Custom Domain Email**:
+  Build a professional email system, sending and receiving emails as xxx@your-company.com to enhance trust with your audience.
+  
+- 🚧 **RESTful API**:
+  Integrate with your existing systems using our comprehensive API, enabling AI-driven agent capabilities for intelligent automation.
+  
+- 🏗 **Self-Host Support**:
+  Complete freedom to host on your own infrastructure or use our cloud.
+
+
+## ✨ Platform Comparison
+
+| Pricing Model | Sendportal | Mailchimp | Resend |
+|---------------|------------|-----------|--------|
+| **Pricing Model** | Free & Open Source | Tiered (by contacts/sends) | Pay-as-you-go |
+| **Hosting & Data** | Full control (Self-hosted) | Vendor-controlled | Vendor-controlled |
+| **Customization** | Fully customizable | Limited by plan | API-based flexibility |
+| **Subscriber Limits** | Unlimited | Limited by plan | N/A (API-first) |
+| **Custom Domain Email** | Send & Receive | Sending Only | Sending Only |
+| **Best For** | Max control & cost-saving | All-in-one marketing | Developers & transactional email |
+
 
 ## 🚀 Getting Started
 
@@ -46,10 +70,12 @@ You can deploy **lite-sendemail** in two ways:
 
 2.  **Cloud Version**: If you prefer a hands-off approach, our [Cloud Version](https://www.cloudkoonly.com/product/sendportal) provides managed hosting, automatic updates, and priority support.
 
+
 ## 🤝 Community & Support
 
 - **GitHub Issues**: Have a bug or a feature request? [Open an issue](https://github.com/cloudkoonly/litesend/issues) on our repository.
 - **Contact Us**: For commercial support or custom development, please [get in touch](https://www.cloudkoonly.com/contact).
+
 
 ## 📄 License
 
