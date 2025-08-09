@@ -35,14 +35,13 @@ You can deploy **lite-sendemail** in two ways:
 1.  **Self-Hosting**: Download the full source code and deploy it on your own server. This gives you maximum control and flexibility.
     ```bash
     # Clone the repository
-    git clone https://github.com/cloudkoonly/litesend.git
-    cd litesend
+    git clone https://github.com/cloudkoonly/lite-sendemail.git
+    cd lite-sendemail
     
     # Follow standard Laravel installation procedures
     composer install
     cp .env.example .env
     php artisan key:generate
-    # ... and so on
     ```
 
 2.  **Cloud Version**: If you prefer a hands-off approach, our [Cloud Version](https://www.cloudkoonly.com/product/sendportal) provides managed hosting, automatic updates, and priority support.
