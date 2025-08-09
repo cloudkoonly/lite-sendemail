@@ -21,12 +21,12 @@
 
 ## ✨ Why Choose lite-sendemail?
 
-- 🔑 **Full Data Ownership**: You host the software, you own your data. No more vendor lock-in.
-- 💰 **Significant Cost Savings**: Slash your email marketing expenses compared to services like Mailchimp or Campaign Monitor.
-- 📈 **Unlimited Growth**: No caps on subscribers, lists, or emails. Your growth is truly limitless.
-- 🚀 **Build Trust**: Send from your own domain to improve brand recognition and deliverability.
-- 🔌 **Seamless Integration**: A powerful RESTful API allows you to connect with any of your existing systems.
-- ☁️ **Flexible Hosting**: Choose between self-hosting on your own infrastructure or our managed cloud service.
+- 🔑 **Stay In Control**: Full ownership of your data and complete control over your email marketing strategy.
+- 💰 **Save Money**: Drastically reduce costs compared to commercial email marketing services.
+- 🌐 **Unlimited Everything**: No artificial limits on subscribers, emails, or features.
+- 📧 **Custom Domain Email**: Build a professional email system, sending and receiving emails as xxx@your-company.com to enhance trust with your audience.
+- 🚧 **RESTful API**: Integrate with your existing systems using our comprehensive API, enabling AI-driven agent capabilities for intelligent automation.
+- 🏗 **Self-Host Support**: Complete freedom to host on your own infrastructure or use our cloud.
 
 ## 🚀 Getting Started
 
