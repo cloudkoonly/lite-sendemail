@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://file.cloudkoonly.com/data/cases/case-sendportal-v3_1200.webp" alt="lite-sendemail Dashboard" />
+  <img src="https://file.cloudkoonly.com/data/cases/case-sendportal-banner-20250809-203546_2400.webp" alt="lite-sendemail Dashboard" />
 </p>
 
 ---
