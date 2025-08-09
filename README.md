@@ -13,10 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://file.cloudkoonly.com/data/cases/case-sendportal-banner-20250809-203546_2400.webp" alt="lite-sendemail Dashboard" />
+  <img src="https://file.cloudkoonly.com/data/cases/case-sendportal-v4-20250809-210330.png" alt="lite-sendemail Dashboard" />
 </p>
 
----
 
 **lite-sendemail** is a powerful, open-source, self-hosted email marketing platform that gives you full control over your campaigns and data. Forked from the robust `sendportal`, it's designed for businesses and individuals who want to manage their email marketing effectively without the high costs and limitations of commercial services.
 
