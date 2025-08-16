@@ -2,7 +2,7 @@
 
 # lite-sendemail
 
-**Open-Source, Self-Hosted Email Marketing & Domain Email Solution (Forked from SendPortal)**
+**Open-Source, Self-Hosted Email Marketing & Business Email Solution (Forked from SendPortal)**
 
 </div>
 
