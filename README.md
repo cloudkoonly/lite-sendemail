@@ -1,6 +1,6 @@
 <div align="center">
 
-# lite-sendemail
+# lite-email
 
 **Open-Source, Self-Hosted Email Marketing & Business Email Solution (Forked from SendPortal)**
 
@@ -13,13 +13,13 @@
 </p>
 
 <p align="center">
-  <img src="https://file.cloudkoonly.com/data/cases/case-sendportal-v4-20250809-210330.png" alt="lite-sendemail Dashboard" />
+  <img src="https://file.cloudkoonly.com/data/cases/case-sendportal-v4-20250809-210330.png" alt="lite-email Dashboard" />
 </p>
 
 
-**lite-sendemail** is a powerful, open-source, self-hosted email marketing platform that gives you full control over your campaigns and data. Forked from the robust `sendportal`, it's designed for businesses and individuals who want to manage their email marketing effectively without the high costs and limitations of commercial services.
+**lite-email** is a powerful, open-source, self-hosted email marketing platform that gives you full control over your campaigns and data. Forked from the robust `sendportal`, it's designed for businesses and individuals who want to manage their email marketing effectively without the high costs and limitations of commercial services.
 
-## ✨ Why Choose lite-sendemail?
+## ✨ Why Choose lite-email?
 
 - 🔑 **Stay In Control**:
   Full ownership of your data and complete control over your email marketing strategy.
@@ -54,13 +54,13 @@
 
 ## 🚀 Getting Started
 
-You can deploy **lite-sendemail** in two ways:
+You can deploy **lite-email** in two ways:
 
 1.  **Self-Hosting**: Download the full source code and deploy it on your own server. This gives you maximum control and flexibility.
     ```bash
     # Clone the repository
-    git clone https://github.com/cloudkoonly/lite-sendemail.git
-    cd lite-sendemail
+    git clone https://github.com/cloudkoonly/lite-email.git
+    cd lite-email
     
     # Follow standard Laravel installation procedures
     composer install
@@ -79,5 +79,5 @@ You can deploy **lite-sendemail** in two ways:
 
 ## 📄 License
 
-lite-sendemail is open-source software licensed under the [MIT license](LICENSE).
+lite-email is open-source software licensed under the [MIT license](LICENSE).
 
